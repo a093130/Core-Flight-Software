@@ -1,0 +1,18 @@
+[submodule "cFE"]
+	path = cFE
+	url = https://github.com/a093130/cFE.git
+[submodule "CFS_IO_LIB"]
+	path = CFS_IO_LIB
+	url = https://github.com/a093130/CFS_IO_LIB.git
+[submodule "CFS_CI"]
+	path = CFS_CI
+	url = https://github.com/a093130/CFS_CI.git
+[submodule "CFS_TO"]
+	path = CFS_TO
+	url = https://github.com/a093130/CFS_TO.git
+[submodule "cfs_lib"]
+	path = cfs_lib
+	url = https://github.com/a093130/cfs_lib.git
+[submodule "osal"]
+	path = osal
+	url = https://github.com/a093130/osal.git
